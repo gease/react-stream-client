@@ -7,6 +7,7 @@ import StreamList from "./stream/StreamList";
 import StreamShow from "./stream/StreamShow";
 import StreamCreate from "./stream/StreamCreate";
 import Header from "./Header";
+import '../style/App.css';
 
 const App = () => {
     console.log(history);
